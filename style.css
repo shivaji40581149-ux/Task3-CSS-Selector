@@ -1,0 +1,43 @@
+body{
+    background-color: coral;
+
+    padding: 10px;
+}
+
+.head{
+    color: blue;
+    font-size: 40px;
+}
+
+#bglime{
+    background-color: lightgreen;
+}
+
+h2 span{
+    color: red;
+}
+
+p{
+    color: white;
+}
+
+#para{
+    color: green;
+}
+
+ul li:first-child span{
+    background-color: yellow;
+}
+
+ul li:nth-child(2) span{
+    background-color: blue;
+    color: white;
+}
+
+ol li:nth-child(2){
+    color: blue;
+}
+
+ol li:nth-child(3){
+    color: red;
+}
